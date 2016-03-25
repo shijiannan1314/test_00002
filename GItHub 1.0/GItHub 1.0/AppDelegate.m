@@ -13,6 +13,14 @@
 @end
 
 @implementation AppDelegate
+/*
+ 王八蛋老板 黄鹤你不是人你还我血汗钱
+ 
+ 
+ 
+ 
+ 
+ */
 
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
