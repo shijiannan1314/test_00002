@@ -17,6 +17,13 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
+    int sum = 0;
+    for (int i = 0; i < 10; i++) {
+        sum += i;
+    }
+    NSLog(@"%d",sum);
+    
+    
 }
 
 - (void)didReceiveMemoryWarning {
